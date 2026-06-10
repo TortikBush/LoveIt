@@ -12,12 +12,13 @@ other = "Посмотреть комментарии"
 
 # === Post ===
 [posts]
-other = "Статьи"
+other = "Журналы"
 # === Post ===
+
 
 # === Taxonomy ===
 [allSome]
-other = "Все {{ .Some }}"
+other = "{{ .Some }}"
 
 [tag]
 other = "Тэг"
